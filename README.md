@@ -4,7 +4,7 @@ A simple form-card component created for learning purposes as part of The Odin P
 
 ## Live Demo
 
-Check out the live demo [here]([#your-live-link](https://jainck.github.io/Form-card/)).
+Check out the live demo [here]([your-live-link](https://jainck.github.io/Form-card/)).
 
 ## Tech Stack
 
